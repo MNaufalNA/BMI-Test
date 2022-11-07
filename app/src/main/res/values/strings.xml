@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BMI APP</string>
+    <string name="welcome">welcome</string>
+    <string name="perintah">Input Berat Badan dan Tinggi Anda!</string>
+    <string name="berat">berat</string>
+    <string name="tinggi">tinggi</string>
+    <string name="pilihjeniskelamin">Silahkan Pilih Jenis Kelamin Anda!</string>
+    <string name="buttonplaceholder">buttonPlaceholder</string>
+    <string-array name="jenis_kelamin">
+        <item>Laki-laki</item>
+        <item>Perempuan</item>
+    </string-array>
+</resources>
